@@ -13,7 +13,7 @@ Medicamina corporate organisational hiearchy of management
    - Code review
    - Manage and approve or deny pull requests
    - Time spent coding decreases as time spent managing increases
-   - Maximum team size of ten members
+   - Maximum team size of ten members (5-7 is optimal)
    - Organise meetings
 3. Senior software engineer
    - Main developers
@@ -26,8 +26,10 @@ Medicamina corporate organisational hiearchy of management
    - 6+ months of company experience
    - Develop software code and unit tests
    - Communicate with stakeholders on feature requirements
+   - UI or DB developer, develop skills in fullstack
 5. Junior developer
    - 0 to 6 months of company experience
    - Understand codebase
    - Understand organisation goals and structure
    - Contribute to software code and bug fixes
+   - Entry level job
