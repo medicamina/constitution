@@ -8,17 +8,17 @@ Medicamina corporate organisational hiearchy of management
  ┃ ┗ Lead software engineer (Project manager)
  ┃   ┣ Senior software engineer (Mentors)
  ┃   ┣ Software engineer
- ┃   ┗ Junior software engineer (trainee)
+ ┃   ┗ Junior software engineer (Trainee)
  ┣ 🔺Director of Customer Experience
  ┃ ┗ Department manager (Sales/Design/Marketing/Support)
  ┃   ┣ Senior specialist (Mentors)
  ┃   ┣ Specialist
- ┃   ┗ Junior specialist (trainee)
+ ┃   ┗ Junior specialist (Trainee)
  ┗ 🔺Director of Medical Research
    ┗ Laboratory manager (Project manager)
      ┣ Senior researcher (Mentors)
      ┣ Scientist
-     ┗ Laboratory assistant (trainee)
+     ┗ Laboratory assistant (Trainee)
 ```
 
 ## Engineering roles
