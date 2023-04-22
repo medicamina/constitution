@@ -2,7 +2,26 @@
 
 Medicamina corporate organisational hiearchy of management
 
-## Engineering
+```
+CEO
+ ┣ Director of Engineering
+ ┃ ┗ Lead software engineer
+ ┃   ┣ Senior software engineer
+ ┃   ┣ Software engineer
+ ┃   ┗ Junior software engineer
+ ┣ 📂node_modules
+ ┣ 📂server
+ ┃ ┗ 📜index.js
+ ┣ 📜.gitignore
+ ┣ 📜package-lock.json
+ ┗ 📜package.json
+```
+
+## Management
+
+1. 
+
+## Engineering roles
 
 1. Director of Engineering
    - Oversee engineering
@@ -27,7 +46,7 @@ Medicamina corporate organisational hiearchy of management
    - Develop software code and unit tests
    - Communicate with stakeholders on feature requirements
    - UI or DB developer, develop skills in fullstack
-5. Junior developer
+5. Junior software engineer
    - 0 to 6 months of company experience
    - Understand codebase
    - Understand organisation goals and structure
