@@ -42,17 +42,26 @@ Directors are appointed and removed by meeting with majority vote by current dir
 
 CEO position is appointed by anonymous vote from all current directors, board advisors and project managers in majority rule appointment (>50% of vote). CEO position is removed by anonymous vote from all current directors, board advisors and project managers in majorty rule appointmet (>75% of vote).
 
-## Specialised roles
+## Middle managment
+### Directors
+
+Directors are appointed from middle management by the CEO
+
+Middle management are appointed by directors. 
+
+## Roles responsibilities
 ### Engineering roles
 
 1. Director of Engineering
    - Oversee engineering
+   - Management
    - Head of engineering
 2. Lead software engineer
    - Project manager
    - Techlead
+   - Middle management
    - Code review
-   - Hire/Fire staff
+   - Hire/Fire team staff
    - Manage and approve or deny pull requests
    - Time spent coding decreases as time spent managing increases
    - Maximum team size of ten members (5-7 is optimal)
@@ -80,11 +89,13 @@ CEO position is appointed by anonymous vote from all current directors, board ad
 
 1. Director of Medical Research
    - Oversee research projects
+   - Management
    - Head of biological research
 2. Laboratory manager
    - Project manager
+   - Middle management
    - Peformance review
-   - Hire/Fire staff
+   - Hire/Fire team staff
    - Maximum team size of ten members (5-7 is optimal)
    - Organise meetings
 3. Senior researcher
