@@ -5,25 +5,21 @@ Medicamina corporate organisational hiearchy of management
 ```
 CEO
  ┣ Director of Engineering
- ┃ ┗ Lead software engineer
- ┃   ┣ Senior software engineer
+ ┃ ┗ Lead software engineer (Project manager)
+ ┃   ┣ Senior software engineer (Mentors)
  ┃   ┣ Software engineer
- ┃   ┗ Junior software engineer
+ ┃   ┗ Junior software engineer (trainee)
  ┣ Director of Customer Experience
- ┃ ┗ Department manager
- ┃   ┣ Senior specialist
+ ┃ ┗ Department manager (Sales/Design/Marketing)
+ ┃   ┣ Senior specialist (Mentors)
  ┃   ┣ Specialist
- ┃   ┗ Junior specialist
- ┣ 📂server
- ┃ ┗ 📜index.js
- ┣ 📜.gitignore
- ┣ 📜package-lock.json
- ┗ 📜package.json
+ ┃   ┗ Junior specialist (trainee)
+ ┗ Director of Medical Research
+   ┗ Laboratory manager (Project manager)
+     ┣ Senior researcher (Mentors)
+     ┣ Scientist
+     ┗ Laboratory assistant (trainee)
 ```
-
-## Management
-
-1. 
 
 ## Engineering roles
 
@@ -46,12 +42,12 @@ CEO
    - Create technical documentation
    - Mentor junior developers
 4. Software engineering
-   - 6+ months of company experience
+   - 8+ months of company experience
    - Develop software code and unit tests
    - Communicate with stakeholders on feature requirements
    - UI or DB developer, develop skills in fullstack
 5. Junior software engineer
-   - 0 to 6 months of company experience
+   - 0 to 8 months of company experience
    - Understand codebase
    - Understand organisation goals and structure
    - Contribute to software code and bug fixes
