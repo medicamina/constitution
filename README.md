@@ -30,7 +30,9 @@ Board of advisors can overrule CEO's decision by majority rule vote (6/8 votes o
 
 Preferably people with double degrees in business + engineering or business + science.
 
-Acts as a de facto senate, adivising the corporate leaders and executives while the CEO acts autonomously, if a CEO makes a wrong decision the board of advisors can veto the decision. Board of advisors can not direct medicamina or employees excluding by veto power of CEO. Organisational decision making is the role of the CEO and directors. The advisors job is to analyse future markets, technologies and research to maintain organisational vigour and innovative energy then to educate executives and produce internal reports. 
+Acts as a de facto senate, adivising the corporate leaders and executives while the CEO acts autonomously, if a CEO makes a wrong decision the board of advisors can veto the decision. Board of advisors can not direct medicamina or employees excluding by veto power of CEO. Organisational decision making is the role of the CEO and directors. The advisors job is to analyse future markets, technologies and research to maintain organisational vigour and innovative energy then to educate executives and produce internal reports. Taking the role of both treasurer and market analyst, leaving risk making decisions to the CEO.
+
+Department directors should be invited to CEO-Board of Advisor meetings and information allowed to propogate organsationally wide but meetings should be viewed as guidance from experts and not rule by leadership. Director attendence is not mandatory but since advisor appointment and removal depends on director participation attendence it is permitted. 
 
 ### Directors
 
@@ -50,6 +52,7 @@ CEO position is appointed by anonymous vote from all current directors, board ad
    - Project manager
    - Techlead
    - Code review
+   - Hire/Fire staff
    - Manage and approve or deny pull requests
    - Time spent coding decreases as time spent managing increases
    - Maximum team size of ten members (5-7 is optimal)
@@ -72,3 +75,33 @@ CEO position is appointed by anonymous vote from all current directors, board ad
    - Understand organisation goals and structure
    - Contribute to software code and bug fixes
    - Entry level job
+
+### Medical Research roles
+
+1. Director of Medical Research
+   - Oversee research projects
+   - Head of biological research
+2. Laboratory manager
+   - Project manager
+   - Peformance review
+   - Hire/Fire staff
+   - Maximum team size of ten members (5-7 is optimal)
+   - Organise meetings
+3. Senior researcher
+   - Main labratory experts
+   - 2+ years of company experience
+   - Design, test and implement research
+   - Create technical documentation
+   - Mentor junior laboratory technicians
+4. Laboratory scientist
+   - 8+ months of company experience
+   - Perform experiments and laboratory techniques
+   - Communicate with managers on progress
+   - Develop lab skills
+5. Laboratory assistant
+   - 0 to 8 months of company experience
+   - Understand job requirements and techniques
+   - Understand organisation goals and structure
+   - Contribute to projects
+   - Entry level job
+
