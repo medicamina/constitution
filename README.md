@@ -29,6 +29,8 @@ Board of advisors can overrule CEO's decision by majority rule vote (6/8 votes).
 
 Preferably people with double degrees in business + engineering or business + science.
 
+Acts as a de facto senate, adivising the corporate leaders and executives while the CEO acts autonomously, if a CEO makes a wrong decision the board of advisors can veto the decision. 
+
 ## Engineering roles
 
 1. Director of Engineering
