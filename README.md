@@ -9,7 +9,11 @@ CEO
  ┃   ┣ Senior software engineer
  ┃   ┣ Software engineer
  ┃   ┗ Junior software engineer
- ┣ 📂node_modules
+ ┣ Director of Customer Experience
+ ┃ ┗ Department manager
+ ┃   ┣ Senior specialist
+ ┃   ┣ Specialist
+ ┃   ┗ Junior specialist
  ┣ 📂server
  ┃ ┗ 📜index.js
  ┣ 📜.gitignore
