@@ -3,18 +3,18 @@
 Medicamina corporate organisational hiearchy of management
 
 ```
-CEO
- ┣ Director of Engineering
+🌟CEO - 🥼Board of advisors
+ ┣ 🔺Director of Engineering
  ┃ ┗ Lead software engineer (Project manager)
  ┃   ┣ Senior software engineer (Mentors)
  ┃   ┣ Software engineer
  ┃   ┗ Junior software engineer (trainee)
- ┣ Director of Customer Experience
+ ┣ 🔺Director of Customer Experience
  ┃ ┗ Department manager (Sales/Design/Marketing)
  ┃   ┣ Senior specialist (Mentors)
  ┃   ┣ Specialist
  ┃   ┗ Junior specialist (trainee)
- ┗ Director of Medical Research
+ ┗ 🔺Director of Medical Research
    ┗ Laboratory manager (Project manager)
      ┣ Senior researcher (Mentors)
      ┣ Scientist
