@@ -1,4 +1,4 @@
-# corporate-structure
+# Medicamina corporate structure
 
 Medicamina corporate organisational hiearchy of management
 
@@ -23,13 +23,13 @@ Medicamina corporate organisational hiearchy of management
 
 ## Board of advisors
 
-A team of 8, appointed and removed by majority rule decision in meeting by Directors + CEO (3/4 votes).
+A team of 8 (or twice the directors + CEO), appointed and removed by majority rule decision in meeting by Directors + CEO (3/4 votes).
 
 Board of advisors can overrule CEO's decision by majority rule vote (6/8 votes).
 
 Preferably people with double degrees in business + engineering or business + science.
 
-Acts as a de facto senate, adivising the corporate leaders and executives while the CEO acts autonomously, if a CEO makes a wrong decision the board of advisors can veto the decision. 
+Acts as a de facto senate, adivising the corporate leaders and executives while the CEO acts autonomously, if a CEO makes a wrong decision the board of advisors can veto the decision. Board of advisors can not direct medicamina or employees excluding by veto power of CEO. Organisational decision making is the role of the CEO and directors. The advisors job is to analyse future markets, technologies and research to maintain organisational vigour and innovative energy then to educate executives and produce internal reports. 
 
 ## Engineering roles
 
