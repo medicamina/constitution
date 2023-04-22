@@ -22,7 +22,7 @@ Medicamina corporate organisational hiearchy of management
 ```
 
 ## Managment roles
-## Board of advisors
+### Board of advisors
 
 A team of 8 (or twice the directors + CEO), appointed and removed by majority rule decision in meeting by Directors + CEO (3/4 vote or 75%).
 
@@ -32,11 +32,11 @@ Preferably people with double degrees in business + engineering or business + sc
 
 Acts as a de facto senate, adivising the corporate leaders and executives while the CEO acts autonomously, if a CEO makes a wrong decision the board of advisors can veto the decision. Board of advisors can not direct medicamina or employees excluding by veto power of CEO. Organisational decision making is the role of the CEO and directors. The advisors job is to analyse future markets, technologies and research to maintain organisational vigour and innovative energy then to educate executives and produce internal reports. 
 
-## Directors
+### Directors
 
 Directors are appointed and removed by meeting with majority vote by current directors and CEO (3/4 votes or 75%). A directors position can be discharged at any moment for misconduct or under performance by majority vote of current directors and CEO (3/4 votes of 75%).
 
-## CEO
+### CEO
 
 CEO position is appointed by anonymous vote from all current directors, board advisors and project managers in majority rule appointment (>50% of vote). CEO position is removed by anonymous vote from all current directors, board advisors and project managers in majorty rule appointmet (>75% of vote).
 
