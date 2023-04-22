@@ -27,7 +27,7 @@ A team of 8, appointed and removed by majority rule decision in meeting by Direc
 
 Board of advisors can overrule CEO's decision by majority rule vote (6/8 votes).
 
-Preferable people with double degrees in business + engineering or business + science.
+Preferably people with double degrees in business + engineering or business + science.
 
 ## Engineering roles
 
