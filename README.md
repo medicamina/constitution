@@ -69,16 +69,16 @@ Department directors should be invited to CEO-Board of Advisor meetings and info
 
 <div style="text-align: justify">Middle management are appointed by directors. Project managers have the ability to hire/fire staff on their team, the team can have a maximum of 10 members. A project manager is assigned a project by a director or can be appointed as head of a newly formed team by providing an innovation solution to a problem. Project managers report to the director who has the authority to dissolve a team. A project manager may lead a laboratory, a github repository or a design team. A budget will be assigned to the project manager by the director and this will constrain their staff expenditures. </div>
 
-### Roles responsibilities
+### Role responsibilities
 #### Deparment roles
 
-<div style="text-align: justify">Engineering is to develope, design, implement and create technical soltuions to complex digitial problems. 
-Medical Research is to collect, correlate, analyse and infer decisions from genetic data and publish results where new pharmacogenetic or bioinformatic discoveries are found. 
-Sales communicates and solves problems with physicians and customers wishing to upgrade their service.
-Design creates user experience processes and user interfaces for the engineering team and marketing departments.
-Marketing creates solutions to reach broader audiences with the goal of having every person on the world on medicamina and drastically reducing world wide the drug misdiagnoses. 
-Customer support solves problems for customers and creates documentation for how to use guides. 
-Communications purpose is to charismatically mingle with project managers, directors and advisors to communicate information effectively and to extract information on products to make sure everyone knows what features are out, what changes have been made and of what plans are coming - to minimise team isolation and essentially being a meeting creator between project managers. </div>
+<div style="text-align: justify">- Engineering is to develope, design, implement and create technical soltuions to complex digitial problems. 
+- Medical Research is to collect, correlate, analyse and infer decisions from genetic data and publish results where new - pharmacogenetic or bioinformatic discoveries are found. 
+- Sales communicates and solves problems with physicians and customers wishing to upgrade their service.
+- Design creates user experience processes and user interfaces for the engineering team and marketing departments.
+- Marketing creates solutions to reach broader audiences with the goal of having every person on the world on medicamina and drastically reducing world wide the drug misdiagnoses. 
+- Customer support solves problems for customers and creates documentation for how to use guides. 
+- Communications purpose is to charismatically mingle with project managers, directors and advisors to communicate information effectively and to extract information on products to make sure everyone knows what features are out, what changes have been made and of what plans are coming - to minimise team isolation and essentially being a meeting creator between project managers. </div>
 
 #### Engineering roles
 
