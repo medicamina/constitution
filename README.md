@@ -73,6 +73,7 @@ Department directors should be invited to CEO-Board of Advisor meetings and info
 #### Deparment roles
 
 <div style="text-align: justify">
+
 - Engineering is to develope, design, implement and create technical soltuions to complex digitial problems.
  
 - Medical Research is to collect, correlate, analyse and infer decisions from genetic data and publish results where new pharmacogenetic or bioinformatic discoveries are found. 
@@ -85,7 +86,9 @@ Department directors should be invited to CEO-Board of Advisor meetings and info
 
 - Customer support solves problems for customers and creates documentation for how to use guides. 
 
-- Communications purpose is to charismatically mingle with project managers, directors and advisors to communicate information effectively and to extract information on products to make sure everyone knows what features are out, what changes have been made and of what plans are coming - to minimise team isolation and essentially being a meeting creator between project managers. </div>
+- Communications purpose is to charismatically mingle with project managers, directors and advisors to communicate information effectively and to extract information on products to make sure everyone knows what features are out, what changes have been made and of what plans are coming - to minimise team isolation and essentially being a meeting creator between project managers. 
+
+</div>
 
 #### Engineering roles
 
