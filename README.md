@@ -42,7 +42,7 @@
 ### Managment roles
 #### Shareholders
 
-<div style="text-align: justify">Share holders will have no vote on comapny direction. There is nothing meaningful a shareholder can say on the direction of the product unless they are a highly educated and skilled craftsman in science and biomedical engineering. The average shareholder will have nothing meaningful to say other than maximise profits. If someone has the skills to make a positive impact on medicaminas success they can join the company as an employee or submit their idea in an open source spirit instead of trying to parachute in. </div>
+<div style="text-align: justify">Share holders will have no vote on company direction. There is nothing meaningful a shareholder can say on the direction of the product unless they are a highly educated and skilled craftsman in science and biomedical engineering. The average shareholder will have nothing meaningful to say other than maximise profits. If someone has the skills to make a positive impact on medicaminas success they can join the company as an employee or submit their idea in an open source spirit instead of trying to parachute in. </div>
 
 #### Board of advisors
 
@@ -64,7 +64,7 @@ Department directors should be invited to CEO-Board of Advisor meetings and info
 
 <div style="text-align: justify">CEO position is appointed by anonymous vote from all current directors, board advisors and project managers in majority rule appointment (>50% of vote). CEO position is removed by anonymous vote from all current directors, board advisors and project managers in majorty rule appointmet (>75% of vote). The CEO has the final say when it comes to budgetting, risk taking and general business guiding so long as it does not breach the constituion of medicamina or get vetoed by the board of advisors. A CEO does not have to be an expert at all fields of expertise within medicamina, they only need to have the business leadership to negotiate with the right people and set budgets and future economic market predictions. Industry specific decision making will be govenered by the director of the respective field. </div>
 
-### Middle managment
+### Middle management
 #### Project managers
 
 <div style="text-align: justify">Middle management are appointed by directors. Project managers have the ability to hire/fire staff on their team, the team can have a maximum of 10 members. A project manager is assigned a project by a director or can be appointed as head of a newly formed team by providing an innovation solution to a problem. Project managers report to the director who has the authority to dissolve a team. A project manager may lead a laboratory, a github repository or a design team. A budget will be assigned to the project manager by the director and this will constrain their staff expenditures. </div>
@@ -90,6 +90,7 @@ Department directors should be invited to CEO-Board of Advisor meetings and info
 
 </div>
 
+### Role templates
 #### Engineering roles
 
 1. Director of Engineering
