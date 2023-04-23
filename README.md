@@ -72,8 +72,9 @@ Department directors should be invited to CEO-Board of Advisor meetings and info
 ### Role responsibilities
 #### Deparment roles
 
-<div style="text-align: justify">- Engineering is to develope, design, implement and create technical soltuions to complex digitial problems. 
-- Medical Research is to collect, correlate, analyse and infer decisions from genetic data and publish results where new - pharmacogenetic or bioinformatic discoveries are found. 
+<div style="text-align: justify">
+- Engineering is to develope, design, implement and create technical soltuions to complex digitial problems. 
+- Medical Research is to collect, correlate, analyse and infer decisions from genetic data and publish results where new pharmacogenetic or bioinformatic discoveries are found. 
 - Sales communicates and solves problems with physicians and customers wishing to upgrade their service.
 - Design creates user experience processes and user interfaces for the engineering team and marketing departments.
 - Marketing creates solutions to reach broader audiences with the goal of having every person on the world on medicamina and drastically reducing world wide the drug misdiagnoses. 
