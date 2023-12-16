@@ -1,6 +1,6 @@
 # Medicamina constitution
 
-<div style="text-align: justify">This document shall be considered the constitution and the declaration of the corporate organisation medicamina. The terms of this constitution will apply to the operational modus operandi of medicamina. </div>
+<div style="text-align: justify">This document shall be considered the constitution and the declaration of the corporate organisation medicamina. The terms of this constitution will apply to the modus operandi of medicamina. </div>
 
 ## Organsational mission
 
